@@ -31,16 +31,16 @@ img {
 
 /* BIG text styling for the hero section text */
 .hero-text {
-    font-size: 4em;
+    font-size: 5em;
     font-weight: bold;
 }
 
 /* nice big font on a banner style background */
 .topic-title{
     color: white;
-    font-size: 2em;
+    font-size: 1.5em;
     padding: 0.1em 3em;
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(156, 0, 0);
 }
 
 /* Three column grid with a nice big gap */
@@ -56,7 +56,7 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(99, 0, 0);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -74,7 +74,7 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(158, 0, 0);
     color: white;
     text-align: right;
     padding: 3em 3em;
