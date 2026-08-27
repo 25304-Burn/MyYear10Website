@@ -79,3 +79,22 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+
+.wide-card {
+    grid-column: span 2;
+}
+
+.topic-content2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25em;
+    /* bring the whole section in off the sides of the page */
+    width: 70%;
+    /* top margin of 3em and center right/left */
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
